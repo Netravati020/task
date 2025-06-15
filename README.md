@@ -28,5 +28,4 @@ python manage.py createsuperuser
 python manage.py drf_create_token your_username
 
 python manage.py test activity
-http://127.0.0.1:8000/swagger/
-
+http://127.0.0.1:8000/api/activity/logs/
